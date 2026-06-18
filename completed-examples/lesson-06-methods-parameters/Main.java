@@ -1,16 +1,16 @@
 public class Main {
     public static void main(String[] args) {
-        greetStudent("Diego");
+        saludarEstudiante("Diego");
 
-        int result = doubleNumber(8);
-        System.out.println("El doble es: " + result);
+        int resultado = calcularDoble(8);
+        System.out.println("El doble es: " + resultado);
     }
 
-    public static void greetStudent(String name) {
-        System.out.println("Hola, " + name + ". Bienvenido a Java.");
+    public static void saludarEstudiante(String nombre) {
+        System.out.println("Hola, " + nombre + ". Bienvenido a Java.");
     }
 
-    public static int doubleNumber(int number) {
-        return number * 2;
+    public static int calcularDoble(int numero) {
+        return numero * 2;
     }
 }

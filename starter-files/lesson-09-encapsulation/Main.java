@@ -1,19 +1,25 @@
-class Student {
-    // Crea atributos privados para name y grade
+class Persona {
+    String nombre;
+    int edad;
 
-    // Crea un constructor
+    // Cambia los atributos a private.
 
-    // Crea getters y setters
+    // Crea setNombre y setEdad para asignar valores.
 
-    // Crea un metodo para mostrar la informacion
+    // Crea getNombre y getEdad para leer valores.
 }
 
-public class Main {
+public class Main
+{
     public static void main(String[] args) {
-        // Crea un estudiante
+        Persona persona1 = new Persona();
 
-        // Cambia su nota usando un setter
+        // Asigna el nombre usando un setter.
 
-        // Muestra la informacion del estudiante
+        // Asigna la edad usando un setter.
+
+        // Muestra el nombre usando un getter.
+
+        // Muestra la edad usando un getter.
     }
 }

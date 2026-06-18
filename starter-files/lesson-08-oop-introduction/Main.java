@@ -1,15 +1,18 @@
-class Student {
-    // Crea atributos para name y age
+class Persona {
+    String nombre;
+    int edad;
 
-    // Crea un constructor
-
-    // Crea un metodo introduceYourself
+    // Crea un constructor que reciba nombre y edad.
 }
 
-public class Main {
+public class Main
+{
     public static void main(String[] args) {
-        // Crea un objeto Student
+        // Crea un objeto Persona usando el constructor.
 
-        // Llama al metodo introduceYourself
+        // Cambia el nombre y la edad del objeto.
+
+        // Muestra el nombre y la edad en consola.
+        System.out.println("Hello World");
     }
 }

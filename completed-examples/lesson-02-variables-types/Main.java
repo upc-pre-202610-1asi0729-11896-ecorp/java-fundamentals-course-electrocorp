@@ -1,13 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        String name = "Ana";
-        int age = 15;
-        double averageGrade = 17.5;
-        boolean isStudent = true;
+        String nombre = "Ana";
+        int edad = 15;
+        double nota = 17.5;
+        boolean inscrito = true;
 
-        System.out.println("Nombre: " + name);
-        System.out.println("Edad: " + age);
-        System.out.println("Promedio: " + averageGrade);
-        System.out.println("Es estudiante: " + isStudent);
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Edad: " + edad);
+        System.out.println("Nota: " + nota);
+        System.out.println("Esta inscrito: " + inscrito);
     }
 }

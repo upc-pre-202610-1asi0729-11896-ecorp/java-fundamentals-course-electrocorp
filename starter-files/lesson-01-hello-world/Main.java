@@ -1,5 +1,7 @@
-﻿public class Main {
+public class Main {
     public static void main(String[] args) {
-        // Escribe un mensaje en la consola
+        // Muestra un mensaje de bienvenida en consola.
+
+        // Muestra un segundo mensaje indicando que estas aprendiendo Java.
     }
 }
