@@ -1,14 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        int firstNumber = 12;
-        int secondNumber = 4;
-        String firstName = "Ana";
-        String lastName = "Lopez";
+        int numeroUno = 12;
+        int numeroDos = 4;
+        String nombre = "Ana";
+        String apellido = "Lopez";
 
-        // Calcula suma, resta, multiplicacion y division
+        // Calcula suma, resta, multiplicacion y division.
 
-        // Une firstName y lastName en una variable fullName
+        // Une nombre y apellido en una variable nombreCompleto.
 
-        // Muestra todos los resultados en consola
+        // Muestra todos los resultados en consola.
     }
 }

@@ -1,13 +1,13 @@
-﻿public class Main {
+public class Main {
     public static void main(String[] args) {
-        // Crea una variable para guardar tu nombre
+        // Crea una variable String para guardar un nombre.
 
-        // Crea una variable para guardar tu edad
+        // Crea una variable int para guardar una edad.
 
-        // Crea una variable para guardar tu promedio
+        // Crea una variable double para guardar una nota.
 
-        // Crea una variable para indicar si eres estudiante
+        // Crea una variable boolean para indicar si esta inscrito.
 
-        // Muestra los datos en consola
+        // Muestra todos los datos en consola.
     }
 }

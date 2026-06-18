@@ -1,41 +1,35 @@
-class Student {
-    private String name;
-    private double grade;
+class Persona {
+    private String nombre;
+    private int edad;
 
-    public Student(String name, double grade) {
-        this.name = name;
-        this.grade = grade;
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
-    public String getName() {
-        return name;
+    public void setEdad(int edad) {
+        this.edad = edad;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public String getNombre() {
+        return nombre;
     }
 
-    public double getGrade() {
-        return grade;
-    }
-
-    public void setGrade(double grade) {
-        if (grade >= 0 && grade <= 20) {
-            this.grade = grade;
-        }
-    }
-
-    public void showInformation() {
-        System.out.println("Estudiante: " + name);
-        System.out.println("Nota: " + grade);
+    public int getEdad() {
+        return edad;
     }
 }
 
-public class Main {
+public class Main
+{
     public static void main(String[] args) {
-        Student student = new Student("Lucia", 15.5);
+        Persona persona1 = new Persona();
 
-        student.setGrade(18);
-        student.showInformation();
+        persona1.setNombre("Sebastian");
+
+        persona1.setEdad(18);
+
+        System.out.println("Nombre: " + persona1.getNombre());
+
+        System.out.println("Edad: " + persona1.getEdad());
     }
 }

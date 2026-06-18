@@ -1,14 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        for (int number = 1; number <= 5; number++) {
-            System.out.println("Numero: " + number);
+        for (int numero = 1; numero <= 5; numero++) {
+            System.out.println("Numero: " + numero);
         }
 
-        int attempt = 1;
+        int intento = 1;
 
-        while (attempt <= 3) {
-            System.out.println("Practica numero " + attempt);
-            attempt++;
+        while (intento <= 3) {
+            System.out.println("Practica numero " + intento);
+            intento++;
         }
     }
 }

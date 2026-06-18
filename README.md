@@ -1,4 +1,4 @@
-﻿# Java Fundamentals Course - ElectroCorp
+# Java Fundamentals Course - ElectroCorp
 
 Curso introductorio de Java para estudiantes de secundaria.
 
@@ -17,7 +17,7 @@ Estudiantes de 12 a 17 años sin experiencia previa en programación.
 
 ## Duración
 
-Aproximadamente 60 minutos, divididos en 6 lecciones cortas.
+Aproximadamente 60 minutos, divididos en 11 lecciones cortas.
 
 ## Prerrequisitos
 
@@ -45,31 +45,36 @@ No se requiere instalar Java, IDEs ni herramientas adicionales.
 - `starter-files/`: archivos iniciales para practicar.
 - `completed-examples/`: ejemplos completos de cada lección.
 - `scripts/`: guiones y checklist de grabación.
-- `resources/`: enlaces a editores en línea.
+- `resources/`: enlaces a editores en línea e imágenes del curso.
 - `videos/`: enlaces a videos no listados de YouTube.
 - `docs/`: documentos de apoyo del equipo.
 - `exports/`: archivos PDF generados para la entrega.
 
 ## Lecciones
 
-1. ¿Qué es Java y qué es programar?
-2. Variables, tipos de datos y operadores.
-3. Decisiones y bucles.
-4. Métodos y entrada por consola.
-5. Clases, objetos y encapsulación.
-6. Proyecto final con programación orientada a objetos.
+1. Introducción a la programación y Java.
+2. Sintaxis básica.
+3. Operadores y expresiones.
+4. Estructuras de control - Decisiones.
+5. Estructuras de control - Bucles.
+6. Métodos y parámetros.
+7. Entrada y salida básica.
+8. Introducción a la POO.
+9. Principios básicos de POO.
+10. Estructuras de datos y desarrollo del programa.
+11. Mejores prácticas y errores comunes.
 
 ## Repositorio de código fuente
 
-Link del repositorio para el curso de Java: https://github.com/upc-pre-202610-1asi0729-11896-ecorp/java-fundamentals-course-electrocorp
+Este repositorio contiene los archivos iniciales y los ejemplos completos para cada práctica del curso.
 
 ## Estado de enlaces
 
 Editor recomendado:
 
-* OnlineGDB: https://www.onlinegdb.com/
+- OnlineGDB: https://www.onlinegdb.com/
 
 Alternativas permitidas:
 
-* Replit: https://replit.com/languages/java10
-* JDoodle: https://www.jdoodle.com/online-java-compiler
+- Replit: https://replit.com/languages/java10
+- JDoodle: https://www.jdoodle.com/online-java-compiler

@@ -1,15 +1,15 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main
+{
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
-        // Pide el nombre del estudiante
+        // Crea un Scanner para leer datos escritos por el usuario.
 
-        // Pide la edad del estudiante
+        // Pide la edad usando System.out.print.
 
-        // Muestra un resumen con los datos ingresados
+        // Guarda la edad con input.nextInt().
 
-        scanner.close();
+        // Muestra la edad usando concatenacion.
     }
 }
