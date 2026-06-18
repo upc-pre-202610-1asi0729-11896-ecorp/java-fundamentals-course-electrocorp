@@ -4,11 +4,11 @@ Este curso está diseñado para desarrollarse sin instalar herramientas. Todas l
 
 ## Editor principal recomendado
 
-### JDoodle
+### OnlineGDB
 
-https://www.jdoodle.com/online-java-compiler
+https://www.onlinegdb.com/
 
-JDoodle será el editor online principal usado durante las grabaciones del curso. Permite escribir, ejecutar y probar código Java desde el navegador.
+OnlineGDB será el editor online principal usado durante las grabaciones del curso. Permite escribir, ejecutar y probar código Java desde el navegador.
 
 ## Editores alternativos permitidos
 
@@ -16,10 +16,10 @@ JDoodle será el editor online principal usado durante las grabaciones del curso
 
 https://replit.com/languages/java10
 
-### OnlineGDB
+### JDoodle
 
-https://www.onlinegdb.com/online_java_compiler
+https://www.jdoodle.com/online-java-compiler
 
 ## Nota para los estudiantes
 
-Puedes usar JDoodle o cualquier editor online de Java de tu preferencia. Lo importante es que puedas ejecutar el código sin instalar Java, IDEs ni herramientas adicionales.
+Puedes usar OnlineGDB o cualquier editor online de Java de tu preferencia. Lo importante es que puedas ejecutar el código sin instalar Java, IDEs ni herramientas adicionales.
