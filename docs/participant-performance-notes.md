@@ -7,8 +7,8 @@ Este archivo sirve como apoyo para elaborar el documento Word y PDF del Particip
 | Integrante | Responsabilidades | Cumplió a tiempo | Cumplió a destiempo | Cumplió parcialmente | No cumplió | Calificación |
 |---|---|---|---|---|---|---|
 | Jean | Plan de curso, integración final y revisión | X | pendiente | pendiente | pendiente | pendiente |
-| Integrante A | Lección 1 y Lección 2 | X | pendiente | pendiente | pendiente | pendiente |
-| Integrante B | Lección 3 | X |  | pendiente | pendiente | pendiente |
+| Integrante A | Lección 1 y Lección 2 | X |  |  |  |  |
+| Integrante B | Lección 3 | X |  | pendiente |  | pendiente |
 | Integrante C | Lección 4 y Lección 5 | X | pendiente | pendiente | pendiente | pendiente |
 | Integrante D | Lección 6, enlaces y grabación | X | pendiente | pendiente | pendiente | pendiente |
 
