@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="resources/images/java-logo.png" alt="Java logo" width="120">
-  <img src="resources/images/jdoodle-logo.png" alt="JDoodle logo" width="150">
+  <img src="resources/images/onlinegdb-logo.png" alt="OnlineGDB logo" width="150">
 </div>
 
 ## Resumen del Curso
@@ -43,12 +43,12 @@ El curso usará herramientas gratuitas y en línea.
 
 Herramienta principal:
 
-- JDoodle
+- OnlineGDB
 
 Herramientas complementarias:
 
 - Replit
-- OnlineGDB
+- JDoodle
 - YouTube
 
 Los estudiantes solo necesitan usar un navegador web moderno como Chrome, Firefox, Safari o Edge.

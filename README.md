@@ -4,7 +4,7 @@ Curso introductorio de Java para estudiantes de secundaria.
 
 <div align="center">
   <img src="resources/images/java-logo.png" alt="Java logo" width="120">
-  <img src="resources/images/jdoodle-logo.png" alt="JDoodle logo" width="150">
+  <img src="resources/images/onlinegdb-logo.png" alt="OnlineGDB logo" width="150">
 </div>
 
 ## Objetivo
@@ -29,12 +29,12 @@ Los estudiantes solo necesitan un navegador web moderno.
 
 Herramienta principal:
 
-- JDoodle
+- OnlineGDB
 
 Herramientas complementarias:
 
 - Replit
-- OnlineGDB
+- JDoodle
 - YouTube
 
 No se requiere instalar Java, IDEs ni herramientas adicionales.
@@ -67,9 +67,9 @@ Este repositorio contiene los archivos iniciales y los ejemplos completos para c
 
 Editor recomendado:
 
-* JDoodle: https://www.jdoodle.com/online-java-compiler
+* OnlineGDB: https://www.onlinegdb.com/
 
 Alternativas permitidas:
 
 * Replit: https://replit.com/languages/java10
-* OnlineGDB: https://www.onlinegdb.com/online_java_compiler
+* JDoodle: https://www.jdoodle.com/online-java-compiler
