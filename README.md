@@ -65,4 +65,11 @@ Este repositorio contiene los archivos iniciales y los ejemplos completos para c
 
 ## Estado de enlaces
 
-Los enlaces a YouTube y a los editores online se completarán cuando cada lección sea grabada y publicada como video no listado.
+Editor recomendado:
+
+* JDoodle: https://www.jdoodle.com/online-java-compiler
+
+Alternativas permitidas:
+
+* Replit: https://replit.com/languages/java10
+* OnlineGDB: https://www.onlinegdb.com/online_java_compiler
