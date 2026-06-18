@@ -1,20 +1,20 @@
 public class Main {
     public static void main(String[] args) {
-        int firstNumber = 12;
-        int secondNumber = 4;
-        String firstName = "Ana";
-        String lastName = "Lopez";
+        int numeroUno = 12;
+        int numeroDos = 4;
+        String nombre = "Ana";
+        String apellido = "Lopez";
 
-        int sum = firstNumber + secondNumber;
-        int subtraction = firstNumber - secondNumber;
-        int multiplication = firstNumber * secondNumber;
-        int division = firstNumber / secondNumber;
-        String fullName = firstName + " " + lastName;
+        int suma = numeroUno + numeroDos;
+        int resta = numeroUno - numeroDos;
+        int multiplicacion = numeroUno * numeroDos;
+        int division = numeroUno / numeroDos;
+        String nombreCompleto = nombre + " " + apellido;
 
-        System.out.println("Suma: " + sum);
-        System.out.println("Resta: " + subtraction);
-        System.out.println("Multiplicacion: " + multiplication);
+        System.out.println("Suma: " + suma);
+        System.out.println("Resta: " + resta);
+        System.out.println("Multiplicacion: " + multiplicacion);
         System.out.println("Division: " + division);
-        System.out.println("Nombre completo: " + fullName);
+        System.out.println("Nombre completo: " + nombreCompleto);
     }
 }

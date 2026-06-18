@@ -1,20 +1,21 @@
-class Student {
-    String name;
-    int age;
+class Persona {
+    String nombre;
+    int edad;
 
-    public Student(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
-
-    public void introduceYourself() {
-        System.out.println("Hola, soy " + name + " y tengo " + age + " anios.");
+    Persona(String _nombre, int _edad) {
+        this.nombre = _nombre;
+        this.edad = _edad;
     }
 }
 
-public class Main {
+public class Main
+{
     public static void main(String[] args) {
-        Student student = new Student("Sebastian", 16);
-        student.introduceYourself();
+        Persona persona1 = new Persona("Juanito", 19);
+
+        persona1.nombre = "Sebastian";
+        persona1.edad = 18;
+
+        System.out.println("Tu nombre es: " + persona1.nombre + " y tu edad es: " + persona1.edad);
     }
 }
