@@ -15,10 +15,13 @@ Uso sugerido:
 
 ## JDoodle
 
+<img src="../images/jdoodle-logo.png" alt="JDoodle logo" width="160">
+
 https://www.jdoodle.com/online-java-compiler
 
 Uso sugerido:
 
+- Editor principal del curso
 - Lección 3
 - Prácticas rápidas de condiciones y bucles
 

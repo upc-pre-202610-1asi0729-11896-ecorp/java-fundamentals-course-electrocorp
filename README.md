@@ -2,6 +2,11 @@
 
 Curso introductorio de Java para estudiantes de secundaria.
 
+<div align="center">
+  <img src="resources/images/java-logo.png" alt="Java logo" width="120">
+  <img src="resources/images/jdoodle-logo.png" alt="JDoodle logo" width="150">
+</div>
+
 ## Objetivo
 
 Enseñar fundamentos de programación con Java y conceptos básicos de programación orientada a objetos usando solo herramientas gratuitas en línea.
@@ -22,10 +27,13 @@ Ninguno. El curso está diseñado para principiantes absolutos.
 
 Los estudiantes solo necesitan un navegador web moderno.
 
-Herramientas sugeridas:
+Herramienta principal:
+
+- JDoodle
+
+Herramientas complementarias:
 
 - Replit
-- JDoodle
 - OnlineGDB
 - YouTube
 

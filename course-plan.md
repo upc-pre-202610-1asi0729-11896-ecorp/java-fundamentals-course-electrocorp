@@ -1,5 +1,10 @@
 ﻿# Fundamentos de Java para Principiantes
 
+<div align="center">
+  <img src="resources/images/java-logo.png" alt="Java logo" width="120">
+  <img src="resources/images/jdoodle-logo.png" alt="JDoodle logo" width="150">
+</div>
+
 ## Resumen del Curso
 
 Este curso introduce a estudiantes de secundaria a los fundamentos de programación con Java. El contenido está pensado para estudiantes de 12 a 17 años sin experiencia previa en programación.
@@ -34,10 +39,15 @@ Al finalizar el curso, el estudiante será capaz de:
 
 ## Herramientas del curso
 
-El curso usará herramientas gratuitas y en línea:
+El curso usará herramientas gratuitas y en línea.
+
+Herramienta principal:
+
+- JDoodle
+
+Herramientas complementarias:
 
 - Replit
-- JDoodle
 - OnlineGDB
 - YouTube
 
