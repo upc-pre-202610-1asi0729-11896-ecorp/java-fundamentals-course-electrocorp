@@ -34,14 +34,29 @@ Al finalizar el curso, el estudiante será capaz de:
 
 ## Herramientas del curso
 
-El curso usará herramientas gratuitas y en línea:
+El curso se desarrollará usando herramientas gratuitas y en línea. La herramienta principal recomendada para las prácticas será **JDoodle**, ya que permite ejecutar código Java directamente desde el navegador.
 
-- Replit
-- JDoodle
-- OnlineGDB
-- YouTube
+**Editor online recomendado:**
+https://www.jdoodle.com/online-java-compiler
 
-Los estudiantes solo necesitan usar un navegador web moderno como Chrome, Firefox, Safari o Edge.
+**Alternativas permitidas:**
+
+* Replit: https://replit.com/languages/java10
+* OnlineGDB: https://www.onlinegdb.com/online_java_compiler
+
+Los estudiantes pueden usar JDoodle o cualquier editor online de Java de su preferencia. No se requiere instalar Java, IDEs ni herramientas adicionales.
+
+## Tabla de prácticas
+
+| Lección | Tema                                   | Editor online recomendado |
+| ------- | -------------------------------------- | ------------------------- |
+| 1       | Hola Java                              | JDoodle                   |
+| 2       | Variables, tipos de datos y operadores | JDoodle                   |
+| 3       | Decisiones y bucles                    | JDoodle                   |
+| 4       | Métodos y entrada por consola          | JDoodle                   |
+| 5       | Clases, objetos y encapsulación        | JDoodle                   |
+| 6       | Proyecto final con POO                 | JDoodle                   |
+
 
 ## Secuencia de lecciones
 
