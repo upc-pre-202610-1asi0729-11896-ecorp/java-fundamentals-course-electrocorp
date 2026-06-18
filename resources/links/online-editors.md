@@ -1,36 +1,25 @@
 ﻿# Editores Online
 
-Este curso debe poder desarrollarse sin instalar herramientas. Por eso se recomiendan editores online gratuitos.
+Este curso está diseñado para desarrollarse sin instalar herramientas. Todas las prácticas pueden realizarse desde un navegador web.
 
-## Replit
+## Editor principal recomendado
 
-https://replit.com/languages/java10
-
-Uso sugerido:
-
-- Lección 1
-- Lección 2
-- Lección 5
-- Lección 6
-
-## JDoodle
+### JDoodle
 
 https://www.jdoodle.com/online-java-compiler
 
-Uso sugerido:
+JDoodle será el editor online principal usado durante las grabaciones del curso. Permite escribir, ejecutar y probar código Java desde el navegador.
 
-- Lección 3
-- Prácticas rápidas de condiciones y bucles
+## Editores alternativos permitidos
 
-## OnlineGDB
+### Replit
+
+https://replit.com/languages/java10
+
+### OnlineGDB
 
 https://www.onlinegdb.com/online_java_compiler
 
-Uso sugerido:
+## Nota para los estudiantes
 
-- Lección 4
-- Ejercicios con entrada por consola
-
-## Recomendación general
-
-Preparar un enlace por cada práctica y colocarlo en el archivo `course-plan.md`.
+Puedes usar JDoodle o cualquier editor online de Java de tu preferencia. Lo importante es que puedas ejecutar el código sin instalar Java, IDEs ni herramientas adicionales.
