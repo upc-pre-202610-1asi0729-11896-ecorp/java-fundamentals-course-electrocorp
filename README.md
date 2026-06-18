@@ -61,7 +61,7 @@ No se requiere instalar Java, IDEs ni herramientas adicionales.
 
 ## Repositorio de código fuente
 
-Este repositorio contiene los archivos iniciales y los ejemplos completos para cada práctica del curso.
+Link del repositorio para el curso de Java: https://github.com/upc-pre-202610-1asi0729-11896-ecorp/java-fundamentals-course-electrocorp
 
 ## Estado de enlaces
 
