@@ -1,5 +1,10 @@
 ﻿# Fundamentos de Java para Principiantes
 
+<div align="center">
+  <img src="resources/images/java-logo.png" alt="Java logo" width="120">
+  <img src="resources/images/jdoodle-logo.png" alt="JDoodle logo" width="150">
+</div>
+
 ## Resumen del Curso
 
 Este curso introduce a estudiantes de secundaria a los fundamentos de programación con Java. El contenido está pensado para estudiantes de 12 a 17 años sin experiencia previa en programación.
@@ -34,29 +39,19 @@ Al finalizar el curso, el estudiante será capaz de:
 
 ## Herramientas del curso
 
-El curso se desarrollará usando herramientas gratuitas y en línea. La herramienta principal recomendada para las prácticas será **JDoodle**, ya que permite ejecutar código Java directamente desde el navegador.
+El curso usará herramientas gratuitas y en línea.
 
-**Editor online recomendado:**
-https://www.jdoodle.com/online-java-compiler
+Herramienta principal:
 
-**Alternativas permitidas:**
+- JDoodle
 
-* Replit: https://replit.com/languages/java10
-* OnlineGDB: https://www.onlinegdb.com/online_java_compiler
+Herramientas complementarias:
 
-Los estudiantes pueden usar JDoodle o cualquier editor online de Java de su preferencia. No se requiere instalar Java, IDEs ni herramientas adicionales.
+- Replit
+- OnlineGDB
+- YouTube
 
-## Tabla de prácticas
-
-| Lección | Tema                                   | Editor online recomendado |
-| ------- | -------------------------------------- | ------------------------- |
-| 1       | Hola Java                              | JDoodle                   |
-| 2       | Variables, tipos de datos y operadores | JDoodle                   |
-| 3       | Decisiones y bucles                    | JDoodle                   |
-| 4       | Métodos y entrada por consola          | JDoodle                   |
-| 5       | Clases, objetos y encapsulación        | JDoodle                   |
-| 6       | Proyecto final con POO                 | JDoodle                   |
-
+Los estudiantes solo necesitan usar un navegador web moderno como Chrome, Firefox, Safari o Edge.
 
 ## Secuencia de lecciones
 
