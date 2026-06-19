@@ -6,10 +6,10 @@ Este archivo sirve como apoyo para elaborar el documento Word y PDF del Particip
 
 | Integrante | Responsabilidades | Cumplió a tiempo | Cumplió a destiempo | Cumplió parcialmente | No cumplió | Calificación |
 |---|---|---|---|---|---|---|
-| Jairo | Fundamentos iniciales: Lección 1, Lección 2 y Lección 3 | X |  |  |  | pendiente |
-| Diego | Lógica de programación: Lección 4, Lección 5 y Lección 6 | X |  |  |  | pendiente |
-| Sebastián | Interacción y bases de POO: Lección 7, Lección 8 y Lección 9 | X |  |  |  | pendiente |
-| Jean | Cierre y aplicación práctica: Lección 10, Lección 11, integración final y revisión | X |  |  |  | pendiente |
+| Jairo | Fundamentos iniciales: Lección 1, Lección 2 y Lección 3 | X |  |  |  | 20 |
+| Diego | Lógica de programación: Lección 4, Lección 5 y Lección 6 | X |  |  |  | 20 |
+| Sebastián | Interacción y bases de POO: Lección 7, Lección 8 y Lección 9 | X |  |  |  | 20 |
+| Jean | Cierre y aplicación práctica: Lección 10, Lección 11, integración final y revisión | X |  |  |  | 20 |
 
 ## Escala
 
